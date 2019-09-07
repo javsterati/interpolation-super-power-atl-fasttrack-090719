@@ -1,3 +1,3 @@
-def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-  
+def display_rainbow(cheese)
+   puts cheese
 end
