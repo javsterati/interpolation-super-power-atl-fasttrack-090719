@@ -1,1 +1,0 @@
-# Write your #display_rainbow method here#https://learn.co/tracks/full-stack-web-development-v6/intro-to-ruby-development/methods/interpolation-super-power#
