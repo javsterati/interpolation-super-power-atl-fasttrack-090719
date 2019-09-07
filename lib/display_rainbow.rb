@@ -6,5 +6,4 @@ def display_rainbow(cheese)
    puts "B: #{cheese[4]}"
    puts "I: #{cheese[5]}"
    puts "V: #{cheese[6]}"
-      
 end
